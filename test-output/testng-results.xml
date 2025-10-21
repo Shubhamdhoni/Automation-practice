@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="19" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Radio button]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-10-21T13:32:51Z" name="DynamicSuite" finished-at="2025-10-21T13:34:01Z" duration-ms="69678">
+    <groups>
+    </groups>
+    <test started-at="2025-10-21T13:32:51Z" name="DynamicTest" finished-at="2025-10-21T13:34:01Z" duration-ms="69678">
+      <class name="com.org_New_Test.Test8_WebTable">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test8_WebTable@532721fd]" started-at="2025-10-21T19:03:45Z" name="startDriver" finished-at="2025-10-21T19:03:50Z" duration-ms="5306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test8_WebTable@532721fd]" started-at="2025-10-21T19:03:50Z" name="test" finished-at="2025-10-21T19:03:50Z" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test8_WebTable@532721fd]" started-at="2025-10-21T19:03:50Z" name="closeDriver" finished-at="2025-10-21T19:03:51Z" duration-ms="488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test8_WebTable -->
+      <class name="com.org_New_Test.Test4_Checkbox">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test4_Checkbox@24a1c17f]" started-at="2025-10-21T19:03:11Z" name="startDriver" finished-at="2025-10-21T19:03:19Z" duration-ms="7833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test4_Checkbox@24a1c17f]" started-at="2025-10-21T19:03:19Z" name="test" finished-at="2025-10-21T19:03:20Z" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test4_Checkbox@24a1c17f]" started-at="2025-10-21T19:03:20Z" name="closeDriver" finished-at="2025-10-21T19:03:20Z" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test4_Checkbox -->
+      <class name="com.org_New_Test.Test3_Dropdown">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test3_Dropdown@1b822fcc]" started-at="2025-10-21T19:03:06Z" name="startDriver" finished-at="2025-10-21T19:03:11Z" duration-ms="4510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test3_Dropdown@1b822fcc]" started-at="2025-10-21T19:03:11Z" name="test" finished-at="2025-10-21T19:03:11Z" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test3_Dropdown@1b822fcc]" started-at="2025-10-21T19:03:11Z" name="closeDriver" finished-at="2025-10-21T19:03:11Z" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test3_Dropdown -->
+      <class name="com.org_New_Test.Test2_SuggessionClass">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test2_SuggessionClass@3d6300e8]" started-at="2025-10-21T19:03:00Z" name="startDriver" finished-at="2025-10-21T19:03:05Z" duration-ms="4753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test2_SuggessionClass@3d6300e8]" started-at="2025-10-21T19:03:05Z" name="test" finished-at="2025-10-21T19:03:06Z" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test2_SuggessionClass@3d6300e8]" started-at="2025-10-21T19:03:06Z" name="closeDriver" finished-at="2025-10-21T19:03:06Z" duration-ms="303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test2_SuggessionClass -->
+      <class name="com.org_New_Test.Test6_SwitchTab">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test6_SwitchTab@73511076]" started-at="2025-10-21T19:03:27Z" name="startDriver" finished-at="2025-10-21T19:03:32Z" duration-ms="4953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test6_SwitchTab@73511076]" started-at="2025-10-21T19:03:32Z" name="test" finished-at="2025-10-21T19:03:34Z" duration-ms="1880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test6_SwitchTab@73511076]" started-at="2025-10-21T19:03:34Z" name="closeDriver" finished-at="2025-10-21T19:03:34Z" duration-ms="528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test6_SwitchTab -->
+      <class name="com.org_New_Test.Test1_RadioButton">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test1_RadioButton@58c540cf]" started-at="2025-10-21T19:02:51Z" name="startDriver" finished-at="2025-10-21T19:02:59Z" duration-ms="7357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test1_RadioButton@58c540cf]" started-at="2025-10-21T19:02:59Z" name="test" finished-at="2025-10-21T19:02:59Z" duration-ms="631" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Radio button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test1_RadioButton@58c540cf]" started-at="2025-10-21T19:02:59Z" name="closeDriver" finished-at="2025-10-21T19:03:00Z" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="closeExtent()[pri:0, instance:com.org_New_Test.Test1_RadioButton@58c540cf]" started-at="2025-10-21T19:04:01Z" name="closeExtent" finished-at="2025-10-21T19:04:02Z" duration-ms="508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeExtent -->
+      </class> <!-- com.org_New_Test.Test1_RadioButton -->
+      <class name="com.org_New_Test.Test7_Alert">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test7_Alert@7927bd9f]" started-at="2025-10-21T19:03:34Z" name="startDriver" finished-at="2025-10-21T19:03:40Z" duration-ms="6306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test7_Alert@7927bd9f]" started-at="2025-10-21T19:03:40Z" name="test" finished-at="2025-10-21T19:03:44Z" duration-ms="3285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test7_Alert@7927bd9f]" started-at="2025-10-21T19:03:44Z" name="closeDriver" finished-at="2025-10-21T19:03:45Z" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test7_Alert -->
+      <class name="com.org_New_Test.Test5_SwitchWindow">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test5_SwitchWindow@56102e1c]" started-at="2025-10-21T19:03:20Z" name="startDriver" finished-at="2025-10-21T19:03:24Z" duration-ms="4478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test5_SwitchWindow@56102e1c]" started-at="2025-10-21T19:03:24Z" name="test" finished-at="2025-10-21T19:03:26Z" duration-ms="2067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test5_SwitchWindow@56102e1c]" started-at="2025-10-21T19:03:26Z" name="closeDriver" finished-at="2025-10-21T19:03:27Z" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test5_SwitchWindow -->
+      <class name="com.org_New_Test.Test9_MouseHover">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test9_MouseHover@410954b]" started-at="2025-10-21T19:03:51Z" name="startDriver" finished-at="2025-10-21T19:03:55Z" duration-ms="4654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test9_MouseHover@410954b]" started-at="2025-10-21T19:03:55Z" name="test" finished-at="2025-10-21T19:03:56Z" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test9_MouseHover@410954b]" started-at="2025-10-21T19:03:56Z" name="closeDriver" finished-at="2025-10-21T19:03:56Z" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test9_MouseHover -->
+      <class name="com.org_New_Test.Test10_iFrame">
+        <test-method is-config="true" signature="startDriver()[pri:0, instance:com.org_New_Test.Test10_iFrame@7fb9f71f]" started-at="2025-10-21T19:03:56Z" name="startDriver" finished-at="2025-10-21T19:04:00Z" duration-ms="4297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDriver -->
+        <test-method signature="test()[pri:0, instance:com.org_New_Test.Test10_iFrame@7fb9f71f]" started-at="2025-10-21T19:04:00Z" name="test" finished-at="2025-10-21T19:04:01Z" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.org_New_Test.Test10_iFrame@7fb9f71f]" started-at="2025-10-21T19:04:01Z" name="closeDriver" finished-at="2025-10-21T19:04:01Z" duration-ms="252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.org_New_Test.Test10_iFrame -->
+    </test> <!-- DynamicTest -->
+  </suite> <!-- DynamicSuite -->
+</testng-results>

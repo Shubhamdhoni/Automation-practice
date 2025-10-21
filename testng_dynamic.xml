@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DynamicSuite">
+    <test name="DynamicTest">
+        <classes>
+            <class name="com.org_New_Test.Test1_RadioButton"/>
+            <class name="com.org_New_Test.Test2_SuggessionClass"/>
+            <class name="com.org_New_Test.Test3_Dropdown"/>
+            <class name="com.org_New_Test.Test4_Checkbox"/>
+            <class name="com.org_New_Test.Test5_SwitchWindow"/>
+            <class name="com.org_New_Test.Test6_SwitchTab"/>
+            <class name="com.org_New_Test.Test7_Alert"/>
+            <class name="com.org_New_Test.Test8_WebTable"/>
+            <class name="com.org_New_Test.Test9_MouseHover"/>
+            <class name="com.org_New_Test.Test10_iFrame"/>
+        </classes>
+    </test>
+</suite>
