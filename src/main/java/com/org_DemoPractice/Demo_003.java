@@ -12,15 +12,15 @@ public class Demo_003 {
 	
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
-		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
-		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2000));
-		
-		WebElement a = driver.findElement(By.xpath("//h1[text()='Practice Page']"));
-		System.out.println(a.getText());
-		
-		Thread.sleep(20);
-		driver.close();
+//		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
+//		driver.manage().window().maximize();
+//		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2000));
+//		
+//		WebElement a = driver.findElement(By.xpath("//h1[text()='Practice Page']"));
+//		System.out.println(a.getText());
+//		
+//		Thread.sleep(20);
+//		driver.close();
 		
 	}
 
